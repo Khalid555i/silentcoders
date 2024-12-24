@@ -6,7 +6,6 @@ export default defineConfig({
   plugins: [react()],
   base: "/silentcoders/",
   server: {
-        host: '192.168.1.117',
         port: 5173
   }
 })
